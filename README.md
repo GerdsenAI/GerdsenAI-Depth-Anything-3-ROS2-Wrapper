@@ -2,12 +2,14 @@
 
 ## Acknowledgments and Credits
 
+```bibtex
 @article{depthanything3,
   title={Depth Anything 3: Recovering the visual space from any views},
   author={Haotong Lin and Sili Chen and Jun Hao Liew and Donny Y. Chen and Zhenyu Li and Guang Shi and Jiashi Feng and Bingyi Kang},
   journal={arXiv preprint arXiv:2511.10647},
   year={2025}
 }
+```
 
 This package would not be possible without the excellent work of the following projects and teams:
 
@@ -534,7 +536,7 @@ If you use Depth Anything 3 in your research, please cite the original paper:
 
 ## License
 
-This ROS2 wrapper is released under the MIT License.
+This ROS2 wrapper is released under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
 
 The Depth Anything 3 model has its own license. Please refer to the [official repository](https://github.com/ByteDance-Seed/Depth-Anything-3) for model license information.
 
